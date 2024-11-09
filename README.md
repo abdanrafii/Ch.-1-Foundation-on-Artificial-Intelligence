@@ -47,7 +47,7 @@ This notebook involves data analysis tasks on employee data, using various aggre
 ### How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/abdanrafii/Ch.-1-Foundation-on-Artificial-Intelligence.git
    ```
 2. **Install Dependencies**:
    Use `pip install -r requirements.txt` if there's a requirements file. Common libraries used include `pandas`, `matplotlib`, and `seaborn`.
