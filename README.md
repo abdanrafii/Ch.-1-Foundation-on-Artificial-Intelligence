@@ -1,6 +1,5 @@
 # Ch.-1-Foundation-on-Artificial-Intelligence
 
-```markdown
 # Foundation on Artificial Intelligence - Chapter 1
 
 This repository contains assignments for Chapter 1 of the Foundation on Artificial Intelligence course. The assignments are designed to enhance understanding of Python programming, data manipulation, and visualization.
