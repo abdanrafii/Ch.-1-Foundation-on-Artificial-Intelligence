@@ -1,7 +1,5 @@
 # Ch.-1-Foundation-on-Artificial-Intelligence
 
-Berikut contoh README untuk tugas tersebut:
-
 ```markdown
 # Foundation on Artificial Intelligence - Chapter 1
 
