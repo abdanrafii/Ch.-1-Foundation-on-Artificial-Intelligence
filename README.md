@@ -44,14 +44,24 @@ This notebook involves data analysis tasks on employee data, using various aggre
 - Scatter plots, bar charts, and pie charts for employee data insights.
 - Boxplots and pair plots to illustrate salary distribution and termination factors.
 
-### How to Run
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/abdanrafii/Ch.-1-Foundation-on-Artificial-Intelligence.git
-   ```
-2. **Install Dependencies**:
-   Use `pip install -r requirements.txt` if there's a requirements file. Common libraries used include `pandas`, `matplotlib`, and `seaborn`.
-3. **Open Jupyter Notebooks**:
-   Open `01_Kelompok_B_2.ipynb` and `01_Kelompok_B_3.ipynb` in Jupyter Notebook or JupyterLab to run the code and explore the data analysis.
+### How to Run in Google Colab
+1. **Open Google Colab**:
+   - Go to [Google Colab](https://colab.research.google.com/) and sign in with your Google account.
 
----
+2. **Upload Notebooks**:
+   - Upload `01_Kelompok_B_2.ipynb` and `01_Kelompok_B_3.ipynb` by selecting **File > Upload Notebook**.
+
+3. **Install Required Libraries**:
+   - Once the notebook is open, run the following command to install necessary libraries:
+     ```python
+     !pip install pandas matplotlib seaborn
+     ```
+
+4. **Load the Dataset**:
+   - In **01_Kelompok_B_3.ipynb**, the dataset `HRDataset_v14.csv` is loaded directly from a URL. Ensure your internet connection is active so the notebook can retrieve the data:
+     ```python
+     data = pd.read_csv('https://raw.githubusercontent.com/Rietaros/kampus_merdeka/main/HRDataset_v14.csv')
+     ```
+
+5. **Run the Cells**:
+   - Go through each cell in the notebook and execute it to see outputs and visualizations.
