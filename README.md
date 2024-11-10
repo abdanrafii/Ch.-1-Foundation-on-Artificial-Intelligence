@@ -51,7 +51,3 @@ This notebook explores the HRDataset to perform various data analyses and genera
 3. For `01_Kelompok_B_3.ipynb`, make sure the HR dataset is accessible (either via the provided URL or by uploading the dataset directly).
 
 ---
-
-This README provides an overview for easy navigation and clear instructions to run the code and interpret the results, making it an ideal reference for project replication and further development.
-
----
