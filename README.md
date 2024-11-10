@@ -1,6 +1,6 @@
 ---
 
-# Foundations of Artificial Intelligence - Chapter 1 (Team Project in Google Colab)
+# Ch.1: Foundations on Artificial Intelligence
 
 This repository contains team-based assignments in foundational AI topics, focused on programming, data analysis, and visualization. The tasks are designed to build understanding through practical applications on real-world data.
 
